@@ -1,5 +1,5 @@
 :root {
-    --font-family-main: "PressStart2P", sans-serif;
+    --font-family-main: "PressStart2P", fantasy;
     --font-family-variable: "Inter", fantasy;
     --font-weight-main: 400;
     --font-weight-variable-min: 465;
@@ -9,7 +9,7 @@
     --background-color: #000000;
     --button-text-color: var(--accent-color, #00cc14);
     --like-contour-color: var(--accent-color, #00cc14);
-    --like-main-body-color: #ff0000;
+    --like-main-color: #ff0000;
     --like-sparks-color: var(--like-main-body-color, #ff0000);
     
     --background:
